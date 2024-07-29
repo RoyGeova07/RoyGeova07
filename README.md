@@ -22,5 +22,8 @@ Programador novato 🥷​
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoyGeova07&icon=6&color=0)](https://visitcount.itsvg.in)
+![messi](https://github.com/user-attachments/assets/76d001e6-252e-45d9-87c9-01905b5fae84)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
