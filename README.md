@@ -3,6 +3,8 @@
 # 💫 About Me:
 Programador novato 🥷​
 
+![messi](https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roy_geovany) 
@@ -22,7 +24,7 @@ Programador novato 🥷​
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoyGeova07&icon=6&color=0)](https://visitcount.itsvg.in)
-![messi](https://github.com/user-attachments/assets/76d001e6-252e-45d9-87c9-01905b5fae84)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
