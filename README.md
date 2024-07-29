@@ -1,7 +1,7 @@
 # ​⚡​🔥​ Bienvenidos a mi Github 👋​👋​
 
 # 💫 About Me:
-Programador novato 🥷​
+Junior 🥷​
 
 ![messi](https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e)
 
