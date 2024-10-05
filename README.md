@@ -25,7 +25,8 @@
 
 <!--- snake -->
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	
+![messi](https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e)/>
 </p>
 
 <!--horizontal divider(gradiant)-->
