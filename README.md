@@ -14,7 +14,6 @@ __________________________________
    
   
   
-<h3 align="center">Software Developer</h3>
 
 
 - 👨‍💻 Currently working on my own portfolio and projects
