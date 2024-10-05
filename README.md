@@ -123,49 +123,58 @@
 
 </p>
 
-<!--horizontal divider(gradiant)-->
+<!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-</details>	
-
-## <picture> 
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">  
+## <picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
 </picture> Github Stats
-</details>	
 
-<details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
-<div>
-  <p align="center">
-	<a href="https://github.com/RoyGeova07/PracticaVacacionesProgra2">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/EjerciciosDePractica_Umana_Roy">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=EjerciciosDePractica_Umana_Roy&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/Florecita">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Florecita&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/Umana_Roy_Proyecto1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Proyecto1&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/Laboratorio1_Q2">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Laboratorio1_Q2&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/Roy_Proyecto2_Twitter_Q3">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Roy_Proyecto2_Twitter_Q3&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/Umana_Roy_Tarea_2/tree/main/OneDrive/Documentos/NetBeansProjects/Umana_Roy_Tarea_2">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Tarea_2&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/RoyGeova07/CARRERABUSES">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=CARRERABUSES&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
+<!-- Github Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyGeova07&show_icons=true&theme=tokyonight" alt="RoyGeova07 GitHub Stats" />
+</p>
+
+<!-- Section for Repositories -->
+<details>
+  <summary><h3>📁 Mis Repositorios</h3></summary>
+  <div align="center">
+    <!-- Repositorio 1 -->
+    <a href="https://github.com/RoyGeova07/PracticaVacacionesProgra2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=PracticaVacacionesProgra2&theme=tokyonight" alt="Practica Vacaciones Progra2" />
+    </a>
+    <!-- Repositorio 2 -->
+    <a href="https://github.com/RoyGeova07/EjerciciosDePractica_Umana_Roy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=EjerciciosDePractica_Umana_Roy&theme=tokyonight" alt="Ejercicios De Practica Umana Roy" />
+    </a>
+    <!-- Repositorio 3 -->
+    <a href="https://github.com/RoyGeova07/Florecita">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Florecita&theme=tokyonight" alt="Florecita" />
+    </a>
+    <!-- Repositorio 4 -->
+    <a href="https://github.com/RoyGeova07/Umana_Roy_Proyecto1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Proyecto1&theme=tokyonight" alt="Umana Roy Proyecto 1" />
+    </a>
+    <!-- Repositorio 5 -->
+    <a href="https://github.com/RoyGeova07/Laboratorio1_Q2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Laboratorio1_Q2&theme=tokyonight" alt="Laboratorio 1 Q2" />
+    </a>
+    <!-- Repositorio 6 -->
+    <a href="https://github.com/RoyGeova07/Roy_Proyecto2_Twitter_Q3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Roy_Proyecto2_Twitter_Q3&theme=tokyonight" alt="Proyecto 2 Twitter Q3" />
+    </a>
+    <!-- Repositorio 7 -->
+    <a href="https://github.com/RoyGeova07/Umana_Roy_Tarea_2/tree/main/OneDrive/Documentos/NetBeansProjects/Umana_Roy_Tarea_2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Tarea_2&theme=tokyonight" alt="Umana Roy Tarea 2" />
+    </a>
+    <!-- Repositorio 8 -->
+    <a href="https://github.com/RoyGeova07/CARRERABUSES">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=CARRERABUSES&theme=tokyonight" alt="Carrera de Buses" />
+    </a>
+  </div>
 </details>
 
-<!--horizontal divider(gradiant)-->
+<!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
