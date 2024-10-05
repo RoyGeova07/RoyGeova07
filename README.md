@@ -132,11 +132,6 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
 </picture> Github Stats
 
-<!-- Github Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyGeova07&show_icons=true&theme=tokyonight" alt="RoyGeova07 GitHub Stats" />
-</p>
-
 <!-- Section for Repositories -->
 <details>
   <summary><h3>📁 Mis Repositorios</h3></summary>
