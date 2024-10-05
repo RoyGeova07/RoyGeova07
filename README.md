@@ -131,11 +131,37 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 </details>	
 
+## <picture> 
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">  
+</picture> Github Stats
+</details>	
+
 <details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
 <div>
   <p align="center">
 	<a href="https://github.com/RoyGeova07/PracticaVacacionesProgra2">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/EjerciciosDePractica_Umana_Roy">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=EjerciciosDePractica_Umana_Roy&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/Florecita">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Florecita&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/Umana_Roy_Proyecto1">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Proyecto1&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/Laboratorio1_Q2">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Laboratorio1_Q2&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/Roy_Proyecto2_Twitter_Q3">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Roy_Proyecto2_Twitter_Q3&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/Umana_Roy_Tarea_2/tree/main/OneDrive/Documentos/NetBeansProjects/Umana_Roy_Tarea_2">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=Umana_Roy_Tarea_2&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/RoyGeova07/CARRERABUSES">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyGeova07&repo=CARRERABUSES&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
