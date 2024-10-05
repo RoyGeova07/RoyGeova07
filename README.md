@@ -1,7 +1,8 @@
 
 __________________________________
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
+<img align="right" alt="GIF" src="
+![messi](https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e)" height="250" width="375" />
 <p align="center">I'm <strong>Junior.<br /></p>
 <p align="center">
    
