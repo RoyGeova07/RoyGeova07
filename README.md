@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
 <a href="https://github.com/Espectro223/Espectro223">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github+<3;Me+llamo+Roy;Algunos+me+conocen+como+RoyGeova07;Soy+estudiante+universitario;Estudio+Ingenieria+En+Inteligencia+Aritificial">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github+<3;Me+llamo+Roy;Algunos+me+conocen+como+RoyGeova07;Soy+estudiante+universitario;+Estudio+Ingenieria+En+Inteligencia+Aritificial">
 </a>
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
