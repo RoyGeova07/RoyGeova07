@@ -48,8 +48,7 @@ __________________________________
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RoyGeova07&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![messi](https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoyGeova07&icon=6&color=0)](https://visitcount.itsvg.in)
