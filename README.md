@@ -108,7 +108,6 @@
   &emsp;
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=#00C7B7)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 </p>
