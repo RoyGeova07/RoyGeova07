@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-<a href="https://github.com/Espectro223/Espectro223">
+<a href="">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github+<3;Me+llamo+Roy;Algunos+me+conocen+como+RoyGeova07;Soy+estudiante+universitario;+Estudio+Ingenieria+En+Inteligencia+Aritificial">
 </a>
 ---
