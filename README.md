@@ -9,12 +9,11 @@ __________________________________
 <p align="center">
    
 <!---------------------------- Typewriter animation ----------------------------->
-# [⚡Alex Berdejo⚡]([https://devrajchatribin.com/](https://github.com/alexberdejo7/))
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+Roy+Umaña)
 
 <hr /> 
    
-   a
+   
    
   
   
