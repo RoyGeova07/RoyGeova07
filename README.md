@@ -1,8 +1,5 @@
 
 __________________________________
-
-
-   <h3 align="center">✨, I'm Roy Umaña 👩🏼‍💻</h3>
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 <p align="center">I'm <strong>Junior.<br /></p>
