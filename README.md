@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
 <a href="https://github.com/RoyGeova07">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github+<3;Me+llamo+Roy;Me+conocen+como+RoyGeova07;Soy+estudiante+universitario;Estudio+Ing.+en+CDIA">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hola+bienvenido+a+mi+Github+<3;Me+llamo+Roy;Me+conocen+como+RoyGeova07;Soy+estudiante+universitario;Estudio+Ing.+en+CDIA">
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
