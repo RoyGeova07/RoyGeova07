@@ -111,6 +111,7 @@
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-003399?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </p>
 
