@@ -18,7 +18,7 @@
 <br>
 <pre>
 🌟 Lenguajes Principales: Java y Python
-🚩 Interesado en el desarrollo de Inteligencia Artificial, la Ciberseguridad y los Videojuegos 
+🚩 Interesado en el desarrollo de Inteligencia Artificial y la Ciberseguridad.
 </pre>
 <br>
 
