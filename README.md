@@ -127,7 +127,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
-    <img src="https://github.com/Espectro223/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px" alt="Sistemas Operativos">
+    <img src="https://github.com/RoyGeova07/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px" alt="Sistemas Operativos">
 </picture>
 <p align="center">
   &emsp;
