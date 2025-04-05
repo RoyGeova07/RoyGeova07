@@ -48,7 +48,7 @@
   <img src="https://github.com/RoyGeova07/RoyGeova07/blob/main/imagenes/lenguajes.gif?raw=true" width="50px"> Lenguajes de Programación
 </h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
