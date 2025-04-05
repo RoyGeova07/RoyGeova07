@@ -80,7 +80,7 @@
 
 <!-- IDEs -->
 <h3 align="center">
-  <img src="https://github.com/RoyGeova07/RoyGeova07/blob/main/imagenes/ides.gif?raw=true" width="50px"> IDEs
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50px"> IDEs
 </h3>
 
 <p align="center">
