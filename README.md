@@ -50,21 +50,22 @@
 <!-- Habilidades -->
 <h2 align="center">🛠 Mis Habilidades 💻</h2>
 
-<!-- Lenguajes de Programación -->
+<!-- Lenguajes de Programacion -->
 <h3 align="center">
-  <img src="https://github.com/Espectro223/Imagenes/blob/main/Programming_Languages.gif?raw=true" width="50px"> Lenguajes de Programación
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px"> Lenguajes de Programación
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Software & Herramientas -->
 <h3 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software & Herramientas
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50px"> Software & Herramientas
 </h3>
 
 <p align="center">
@@ -79,7 +80,7 @@
 
 <!-- IDEs -->
 <h3 align="center">
-  <img src="https://github.com/Espectro223/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px"> IDEs
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50px"> IDEs
 </h3>
 
 <p align="center">
@@ -93,7 +94,7 @@
 
 <!-- Sistemas Operativos -->
 <h3 align="center">
-  <img src="https://github.com/RoyGeova07/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px"> Sistemas Operativos
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="50px"> Sistemas Operativos
 </h3>
 
 <p align="center">
@@ -102,11 +103,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Visit Counter -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=RoyGeova07&icon=6&color=0" alt="Visit Counter"/>
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
