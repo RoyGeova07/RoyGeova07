@@ -52,7 +52,7 @@
 
 <!-- Lenguajes de Programacion -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/rodrigokamada/gifs/main/code/code-2.gif" width="50px"> Lenguajes de Programación
+  <img src="https://github.com/RoyGeova07/RoyGeova07/blob/main/imagenes/lenguajes.gif?raw=true" width="50px"> Lenguajes de Programación
 </h3>
 
 <p align="center">
@@ -80,7 +80,7 @@
 
 <!-- IDEs -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/rodrigokamada/gifs/main/computer/computer-1.gif" width="50px"> IDEs
+  <img src="https://github.com/RoyGeova07/RoyGeova07/blob/main/imagenes/ides.gif?raw=true" width="50px"> IDEs
 </h3>
 
 <p align="center">
@@ -94,7 +94,7 @@
 
 <!-- Sistemas Operativos -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/rodrigokamada/gifs/main/computer/computer-2.gif" width="50px"> Sistemas Operativos
+  <img src="https://github.com/RoyGeova07/RoyGeova07/blob/main/imagenes/sistemas_operativos.gif?raw=true" width="50px"> Sistemas Operativos
 </h3>
 
 <p align="center">
