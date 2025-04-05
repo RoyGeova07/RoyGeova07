@@ -65,7 +65,7 @@
 
 <!-- Software & Herramientas -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50px"> Software & Herramientas
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software & Herramientas
 </h3>
 
 <p align="center">
