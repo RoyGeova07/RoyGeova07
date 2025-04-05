@@ -17,13 +17,6 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="350px">
 </p>
 
-<pre>
-🌟 Lenguajes Principales: Java y Python
-🚩 Interesado en el desarrollo de Inteligencia Artificial y la Ciberseguridad.
-</pre>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Snake -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81069057-f238-4b75-a200-aa7609f6943e" alt="snake animation">
