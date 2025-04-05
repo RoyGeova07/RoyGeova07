@@ -94,7 +94,7 @@
 
 <!-- Sistemas Operativos -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="50px"> Sistemas Operativos
+  Sistemas Operativos
 </h3>
 
 <p align="center">
