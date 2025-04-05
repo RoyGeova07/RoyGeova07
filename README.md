@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-  ¡Bienvenido al perfil de RoyGeova07! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7giphy.gif" width="28">
+  ¡Bienvenido al perfil de RoyGeova07! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
@@ -50,9 +50,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Mis Habilidades 💻
+<!-- Título de habilidades -->
+<h2 align="center">🛠 Mis Habilidades 💻</h2>
 
-### <picture><img src="https://github.com/Espectro223/Imagenes/blob/main/Programming_Languages.gif?raw=true" width="50px"></picture> Lenguajes de Programación
+<!-- Lenguajes de Programación -->
+<h3 align="center">Lenguajes de Programación</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
@@ -61,7 +63,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Software & Herramientas
+<!-- Software & Herramientas -->
+<h3 align="center">Software & Herramientas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -73,7 +76,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture><img src="https://github.com/Espectro223/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px"></picture> IDEs
+<!-- IDEs -->
+<h3 align="center">IDEs</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -84,13 +88,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture><img src="https://github.com/RoyGeova07/Imagenes/blob/main/dplnews_inteligencia-artificial_mc100921.gif?raw=true" width="50px" alt="Sistemas Operativos"></picture> Sistema Operativo
+<!-- Sistemas Operativos -->
+<h3 align="center">Sistemas Operativos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Visit Counter -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=RoyGeova07&icon=6&color=0" alt="Visit Counter"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Visit Counter -->
 <p align="center">
