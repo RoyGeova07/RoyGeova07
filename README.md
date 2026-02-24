@@ -42,7 +42,7 @@
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HSQLDB](https://img.shields.io/badge/HSQLDB-003B57?style=for-the-badge)
+![HSQLDB](https://img.shields.io/badge/HSQLDB-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
